@@ -1,2 +1,2 @@
-# 3OSC
- triple Oscillator
+# hihats
+hihats
